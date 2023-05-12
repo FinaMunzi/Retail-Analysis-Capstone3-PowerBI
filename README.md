@@ -49,15 +49,26 @@ __________________________________________________________________________
 
 ## Changes made from original data.
 ----------------------------------------------------------------------------
+• Original Data
+[![Screenshot-2023-05-12-at-11-03-48-PM.png](https://i.postimg.cc/PqmY13jq/Screenshot-2023-05-12-at-11-03-48-PM.png)](https://postimg.cc/WD1dv7tR)
 
 •	Datasheet transformation from single data to three different datasheet.
+[![Screenshot-2023-05-12-at-10-54-40-PM.png](https://i.postimg.cc/x1fWw76w/Screenshot-2023-05-12-at-10-54-40-PM.png)](https://postimg.cc/PP73Z6sy)
 
 •	Tried to understand the data by researching the retailers in the US and understood the Sodapop topped because of being in the industry from year 1897
-(https://en.wikipedia.org/wiki/Galco%27s_Soda_Pop_Stop)
+[![Wikipedia Link](https://en.wikipedia.org/wiki/Galco%27s_Soda_Pop_Stop)]
 
 •	Download the data and loaded into Power BI for transformation.
+[![Screenshot-2023-05-12-at-10-57-20-PM.png](https://i.postimg.cc/Kz8StWM7/Screenshot-2023-05-12-at-10-57-20-PM.png)](https://postimg.cc/t1wMj2D7)
 
 •	Created Cards, charts, map and added slicers.
+
+•	Page navigations.
+[![Screenshot-2023-05-12-at-10-55-39-PM.png](https://i.postimg.cc/CKPYrYYr/Screenshot-2023-05-12-at-10-55-39-PM.png)](https://postimg.cc/4K9rnDYp)
+
+• Created drill-through.
+[![Screenshot-2023-05-12-at-10-54-23-PM.png](https://i.postimg.cc/3xtPYB6d/Screenshot-2023-05-12-at-10-54-23-PM.png)](https://postimg.cc/ZWyfLrJS)
+[![Screenshot-2023-05-12-at-11-10-08-PM.png](https://i.postimg.cc/VNL4LPM8/Screenshot-2023-05-12-at-11-10-08-PM.png)](https://postimg.cc/JsvjPgP6)
 
 •	Created interactive dashboard.
 
